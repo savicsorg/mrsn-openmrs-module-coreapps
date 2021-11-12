@@ -15,7 +15,7 @@
         "id": "owa.conceptdictionary.adminLink",
         "extensionPointId": "org.openmrs.module.adminui.adminLinks",
         "type": "link",
-        "label": "Manage Concept Dictionary",
+        "label": "Gérer le dictionnaire de concepts",
         "url": "owa/conceptdictionary/index.html",
         "extensionParams": {
           "group": "owa.conceptdictionary.adminGroup"

@@ -1,11 +1,11 @@
 [
     {
         "id": "${project.parent.artifactId}.clinicianFacingPatientDashboardApp",
-        "description": "Contains extension points for the clinician facing patient dashboard",
+        "description": "Contient des points d'extension pour le tableau de bord des patients destiné aux cliniciens.",
         "extensionPoints": [
             {
                 "id": "clinicianFacingPatientDashboard.otherActions",
-                "description": "Action items to add to the list below the 'General Actions' on the clinician facing patient dashboard"
+                "description": "Actions à ajouter à la liste située sous la rubrique 'Actions générales' du tableau de bord du patient destiné aux cliniciens."
             }
         ],
         "contextModel": [ "patient", "visit" ]
